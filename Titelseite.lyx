@@ -1,0 +1,602 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass report
+\use_default_options false
+\maintain_unincluded_children false
+\language ngerman
+\language_package none
+\inputencoding utf8
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "helvet" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family sfdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 0
+\use_package amssymb 0
+\use_package cancel 0
+\use_package esint 0
+\use_package mathdots 0
+\use_package mathtools 0
+\use_package mhchem 0
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\branch deu
+\selected 1
+\filename_suffix 1
+\color #faf0e6
+\end_branch
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 3.5cm
+\topmargin 2cm
+\rightmargin 2.5cm
+\bottommargin 2.5cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style german
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle empty
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{titlepage}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "c"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "100theight%"
+height_special "none"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{center}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename images/TU_Graz_Logo.pdf
+	lyxscale 10
+	width 2.8cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace 2cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size large
+\color none
+Max Muster, Bsc
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace 0.9cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\series bold
+\size larger
+1 Titel
+\begin_inset Newline newline
+\end_inset
+
+2 Titel
+\begin_inset Newline newline
+\end_inset
+
+3 Titel
+\end_layout
+
+\begin_layout Plain Layout
+
+\series bold
+\size large
+\begin_inset VSpace 0.6cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\series bold
+\size large
+1 English Title
+\begin_inset Newline newline
+\end_inset
+
+2 English Title
+\begin_inset Newline newline
+\end_inset
+
+3 English Title
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace 1.3cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\series bold
+\size large
+\begin_inset Branch deu
+inverted 0
+status open
+
+\begin_layout Standard
+
+\series bold
+\size large
+MASTERARBEIT
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch deu
+inverted 1
+status open
+
+\begin_layout Standard
+
+\series bold
+\size large
+MASTER'S THESIS
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace 0.25cm
+\end_inset
+
+
+\begin_inset Branch deu
+inverted 0
+status open
+
+\begin_layout Standard
+
+\size small
+zur Erlangung des akademischen Grades
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch deu
+inverted 1
+status open
+
+\begin_layout Standard
+
+\size small
+to achieve the university degree of
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+\begin_inset VSpace 0.25cm
+\end_inset
+
+ Diplom-Ingenieur
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\size small
+Diplom-Ingenieurin/Master of Science/...
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+\begin_inset VSpace 0.25cm
+\end_inset
+
+
+\begin_inset Branch deu
+inverted 0
+status open
+
+\begin_layout Standard
+
+\size small
+Masterstudium Bauingenieurwissenschaften - Infrastruktur
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch deu
+inverted 1
+status open
+
+\begin_layout Standard
+
+\size small
+Master's programme Civil Engineering - Infrastructure
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\size small
+oder dergleichen
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+\begin_inset VSpace 1cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+\begin_inset Branch deu
+inverted 0
+status open
+
+\begin_layout Standard
+
+\size small
+eingereicht an der
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch deu
+inverted 1
+status open
+
+\begin_layout Standard
+
+\size small
+submitted to
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace 0.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\series bold
+\size large
+\begin_inset Branch deu
+inverted 0
+status open
+
+\begin_layout Standard
+
+\series bold
+\size large
+Technischen Universität Graz
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch deu
+inverted 1
+status open
+
+\begin_layout Standard
+
+\series bold
+\size large
+Graz University of Technology
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace 0.75cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+\begin_inset Branch deu
+inverted 0
+status open
+
+\begin_layout Standard
+
+\size small
+Betreuer
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch deu
+inverted 1
+status open
+
+\begin_layout Standard
+
+\size small
+Supervisor
+\end_layout
+
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+\color none
+Prof.
+ Dipl.-Ing.
+ Dr.techn.
+ Max Muster
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+\begin_inset VSpace 0.2cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+\begin_inset Branch deu
+inverted 0
+status open
+
+\begin_layout Standard
+
+\size small
+Mitbetreuende Assistenten
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch deu
+inverted 1
+status open
+
+\begin_layout Standard
+
+\size small
+Assisting adviser
+\end_layout
+
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+\color none
+Dipl.-Ing.
+ Max Muster, Bsc
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+\begin_inset VSpace 1cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size small
+\color none
+Institut für Musterlösungen
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace 0.8cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Graz, Jänner 2000
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{center}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{titlepage}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
