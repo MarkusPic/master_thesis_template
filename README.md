@@ -20,3 +20,23 @@ Einige Vorteile sind zum Beispiel:
 Außerdem kann man LyX auf allen Betriebssystemen Downloaden.
 
 https://www.lyx.org
+
+----
+
+**Eidesstattliche Erklärung bzw. Affidavit**
+
+![Eidesstattliche_Erklärung_Affidavit](_readme/Eidesstattliche_Erklärung_Affidavit.png)
+
+----
+
+**Titelseite auf Deutsch**
+
+![Titelseite-deu](_readme/Titelseite-deu.png)
+
+----
+
+**Titelseite auf Englisch**
+
+![Titelseite](_readme/Titelseite.png)
+
+----
